@@ -1,0 +1,13 @@
+Saved/  
+Intermediate/  
+DerivedDataCache/  
+*.pdb
+obj/  
+*.vcxproj
+*.sln.*
+*.sln
+*-Debug.*
+FileOpenOrder/
+.vs/
+Binaries/
+.idea/
